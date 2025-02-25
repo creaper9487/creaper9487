@@ -1,5 +1,7 @@
 ## Hi there 👋
+<img src="https://raw.githubusercontent.com/creaper9487/creaper9487/output/snake.svg" alt="Snake animation" />
 
+###
 <!--
 **creaper9487/creaper9487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
