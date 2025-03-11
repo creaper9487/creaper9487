@@ -1,4 +1,3 @@
-## Hi there 👋
 <img src="https://raw.githubusercontent.com/creaper9487/creaper9487/output/snake.svg" alt="Snake animation" />
 
 ###
