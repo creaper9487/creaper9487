@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lun
+嘿，我是倫（Lun）！
 ===========================================================================================================================
 
-Web Front End, Web3 and Cyber Security
+Web Front End, Web3, Open Source and Cyber Security
 --------------------------------------
 
 A motivated dev who wants to push Information Literacy in certain area and field. I writes dynamic front end and creates dApps on Sui. Cyber security is not the main focus for me, but I can give out soild daily advice and crack some CTFs. (L337 frfr)
@@ -22,10 +22,20 @@ A motivated dev who wants to push Information Literacy in certain area and field
 
 <p align="left"> <a href="https://discord.com/users/cr3ap3r9487" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/creaper9487" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/creapergod" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Other ways to find me 
+#### Do project collabs
 
-<b>My GitHub Stats</b>
+```http
+  GET /aWonderfulJourney
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `yourAwesomeIdea` | `Brief` | **Required**. To emails or X(twitter) |
+
+
+
+
+<b>GitHub Stats</b>
 
 <a href="http://www.github.com/creaper9487"><img src="https://github-readme-stats.vercel.app/api?username=creaper9487&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="creaper9487's GitHub stats" /></a>
-
-<a href="https://github.com/creaper9487" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creaper9487&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
