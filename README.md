@@ -33,7 +33,11 @@ A motivated dev who wants to push Information Literacy in certain area and field
 | :-------- | :------- | :------------------------- |
 | `yourAwesomeIdea` | `Brief` | **Required**. To emails or X(twitter) |
 
-
+### Competition and Events
+- Sitcon Hackathon 2024
+- ➡️City Dashboard hackathon
+- Sui Overflow 2025
+- 資安技能金盾獎
 
 
 <b>GitHub Stats</b>
