@@ -35,7 +35,7 @@ A motivated dev who wants to push Information Literacy in certain area and field
 
 ### Competition and Events
 - Sitcon Hackathon 2024
-- ➡️City Dashboard hackathon
+- 雙北春季程式設計節 2025
 - Sui Overflow 2025
 - 資安技能金盾獎
 
