@@ -40,6 +40,14 @@ A motivated dev who wants to push Information Literacy in certain area and field
 - 資安技能金盾獎
 - 2025新興生技醫療跨領域人才培訓 Final Pitch 特優
 
+### Ongoing Works
+
+- SeaWallet Agentic Extension
+- Zzyzx Club Discord Moderation
+- Medical Information Standard 
+- Open Source Information Literacy Program 
+- Hackathons
+
 <b>GitHub Stats</b>
 
 <a href="http://www.github.com/creaper9487"><img src="https://github-readme-stats.vercel.app/api?username=creaper9487&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="creaper9487's GitHub stats" /></a>
