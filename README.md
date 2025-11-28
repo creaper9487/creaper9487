@@ -40,7 +40,7 @@ A motivated dev who wants to push Information Literacy in certain area and field
 - 資安技能金盾獎 Finalist 
 - 2025新興生技醫療跨領域人才培訓 Final Pitch 特優
 - Walrus Haulout 2025
-- 數位憑證皮夾場景創新賽 2025
+- 數位憑證皮夾場景創新賽 2025 季軍
 
 ### Ongoing Works
 
