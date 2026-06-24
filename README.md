@@ -36,7 +36,8 @@ A motivated dev who wants to push Information Literacy in certain area and field
 ### Competition and Events
 - Sitcon Hackathon 2024
 - 雙北春季、秋季程式設計節 2025
-- Sui Overflow 2025 Payment Track 3rd Place 
+- Sui Overflow 2025 Payment Track 3rd Place
+- Sui Overflow 2026
 - 資安技能金盾獎 Finalist 
 - 2025新興生技醫療跨領域人才培訓 Final Pitch 特優
 - Walrus Haulout 2025
@@ -45,7 +46,7 @@ A motivated dev who wants to push Information Literacy in certain area and field
 
 ### Ongoing Works
 
-- SeaWallet Agentic Extension
+- Sup Wallet 
 - Zzyzx Club Discord Moderation
 - Medical Information Standard 
 - Open Source Information Literacy Program 
