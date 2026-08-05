@@ -40,6 +40,7 @@ A motivated dev who wants to push Information Literacy in certain area and field
 - Sui Overflow 2026 Finalist
 - 資安技能金盾獎 Finalist 
 - 2025新興生技醫療跨領域人才培訓 Final Pitch 特優
+- 次世代醫療器材新創開發’26 第三名
 - Walrus Haulout 2025
 - 數位憑證皮夾場景創新賽 2025 季軍
 - 清大區塊鏈社 x Sui 工作坊：進階應用實戰講師
