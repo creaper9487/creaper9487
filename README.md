@@ -1,4 +1,4 @@
-嘿，我是倫（Lun）！
+Hey, just call me 倫（Lun）.
 ===========================================================================================================================
 
 Web Front End, Web3, Open Source and Cyber Security
@@ -44,14 +44,7 @@ A motivated dev who wants to push Information Literacy in certain area and field
 - Walrus Haulout 2025
 - 數位憑證皮夾場景創新賽 2025 季軍
 - 清大區塊鏈社 x Sui 工作坊：進階應用實戰講師
-
-### Ongoing Works
-
-- Sup Wallet 
-- Zzyzx Club Discord Moderation
-- Medical Information Standard 
-- Open Source Information Literacy Program 
-- Hackathons
+- Taipei Future Mode '26 workshop sessions
 
 <b>GitHub Stats</b>
 
