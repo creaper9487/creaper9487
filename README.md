@@ -4,10 +4,13 @@ Hey, just call me 倫（Lun）.
 Web Front End, Web3, Open Source and Cyber Security
 --------------------------------------
 
-A motivated dev who wants to push Information Literacy in certain area and field. I writes dynamic front end and creates dApps on Sui. Cyber security is not the main focus for me, but I can give out soild daily advice and crack some CTFs. (L337 frfr)
+Worked with data collection, AI application, dApps and sometimes Network Security.
+
+Pushing information literacy is my passion.
+
 
 * ✉️  You can contact me at [w0979563238@gmail.com](mailto:w0979563238@gmail.com)
-* 🧠  I'm learning Smart Contract and Designing
+* 🧠  Works on Frontend, Backend, and sometimes smart contract. 
 * ⚡  Actively promotes, contributes and uses Open Source.
 
 ### Skills
